@@ -1,0 +1,65 @@
+﻿@model IEnumerable<T11HabitatandAnimals.Models.threatened_animal_vic>
+
+
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Scientific_Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Common_Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Threatened_status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Class)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Scientific_Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Common_Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Threatened_status)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Class)
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    @section Scripts {
+        @Scripts.Render("~/Scripts/DataTables/jquery.dataTables.js")
+        @Scripts.Render("~/Scripts/DataTables/dataTables.bootstrap.js")
+
+        <script>
+            $(document).ready(function () {
+                $('.table').DataTable();
+            });
+        </script>
+    }
+    <link href="~/Content/DataTables/css/dataTables.bootstrap.min.css"
+          rel="stylesheet" />
+
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
+        <i class="bi bi-arrow-up-short"></i>
+    </a>
+
+

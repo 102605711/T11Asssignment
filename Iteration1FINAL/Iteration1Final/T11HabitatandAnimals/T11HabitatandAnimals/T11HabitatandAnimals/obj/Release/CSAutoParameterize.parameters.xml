@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LandAnimals-Web.config Connection String" description="LandAnimals Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\AnimalsandLand.mdf;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\56878\\Desktop\\T11HabitatandAnimals2\\T11HabitatandAnimals\\T11HabitatandAnimals\\T11HabitatandAnimals\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LandAnimals']/@connectionString" />
+  </parameter>
+  <parameter name="Model1-Web.config Connection String" description="Model1 Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\AnimalsandLand.mdf;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\56878\\Desktop\\T11HabitatandAnimals2\\T11HabitatandAnimals\\T11HabitatandAnimals\\T11HabitatandAnimals\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Model1']/@connectionString" />
+  </parameter>
+  <parameter name="LandAnimals1-Web.config Connection String" description="LandAnimals1 Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\AnimalsandLand.mdf;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\56878\\Desktop\\T11HabitatandAnimals2\\T11HabitatandAnimals\\T11HabitatandAnimals\\T11HabitatandAnimals\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LandAnimals1']/@connectionString" />
+  </parameter>
+  <parameter name="AnimalsLand-Web.config Connection String" description="AnimalsLand Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\AnimalsandLand.mdf;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\56878\\Desktop\\T11HabitatandAnimals2\\T11HabitatandAnimals\\T11HabitatandAnimals\\T11HabitatandAnimals\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AnimalsLand']/@connectionString" />
+  </parameter>
+  <parameter name="habitat-Web.config Connection String" description="habitat Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDB)\MSSQLLocalDB;attachdbfilename=|DataDirectory|\AnimalsandLand.mdf;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\56878\\Desktop\\T11HabitatandAnimals2\\T11HabitatandAnimals\\T11HabitatandAnimals\\T11HabitatandAnimals\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='habitat']/@connectionString" />
+  </parameter>
+</parameters>
