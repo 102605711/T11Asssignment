@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseModelStoreContainer" CdmEntityContainer="DatabaseEntities">
+    <EntitySetMapping Name="Animals">
+      <EntityTypeMapping TypeName="DatabaseModel.Animal">
+        <MappingFragment StoreEntitySet="Animals">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="threatened_status" ColumnName="threatened_status" />
+          <ScalarProperty Name="number" ColumnName="number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
