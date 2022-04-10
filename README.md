@@ -24,7 +24,6 @@ In this iteration development, two epics will be implemented into functions in w
 <li>GoogleFont 
 <li>Razor Engine(v5)
 <h1>4.3System architecture deisgn</h1> 
-<h1>4.3System architecture deisgn</h1> 
 <h1>4.3Installation</h1> 
 <li>install jquery package or import by using (<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>)
 <li>instaill jquery datatable (https://cdn.datatables.net/)
