@@ -9,7 +9,6 @@ In this iteration development, two epics will be implemented into functions in w
 # 2. Software architecture and design principle involved
 <p><b>2.1 Backend of the project</p></b>
 <p><b>2.2 Backend of the project functionality</p></b>
-
 <h1>3.Tech and Framework</h1>
 <li>.NET MVC
 <li>boostrap
@@ -23,7 +22,6 @@ In this iteration development, two epics will be implemented into functions in w
 <li>modernizr(v 2.8.3)
 <li>GoogleFont 
 <li>Razor Engine(v5)
-<h1>4.3System architecture deisgn</h1> 
 <h1>4.3Installation</h1> 
 <li>install jquery package or import by using (<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>)
 <li>instaill jquery datatable (https://cdn.datatables.net/)
