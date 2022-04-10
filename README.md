@@ -5,12 +5,11 @@
 
 <p>This is the first iteration of project. In this iteration, at the initial stage, the research topic was refined into different dimensions through the lotus blossom and empathy map methods. After this, Personas and problem statements were conducted based on the previous stage results, aiming to summarise user groups, which indicates the users’ needs, and why they are important to them. 
 In this iteration development, two epics will be implemented into functions in which people can get information about endangered land animals and habitats knowledge, and are free to subscribe to the news and activities without any mandatory. In addition, the initial version project basically met the needs of users, but there were still some shortcomings, after improvement, we have the delivery version project with fully functional and more interactive UI design, and we are ready to delivery this project to our user.</p>
-![aa](https://user-images.githubusercontent.com/53655545/162607360-ec7be10c-7616-4c8a-94ea-06c78b15da73.png)
 
 # 2. Software architecture and design principle involved
+<p>In iteration one, .net was used as a development platform within the MVC framework. Furthermore, within the EF framework, the front-end and back-end can be easily integrated, and quickly deployed on the Azure Cloud. </p>
 ![Screenshot](aa.png)
 
-![image]( https://github.com/102605711/T11Asssignment/blob/2ffc9f3e91fd89be92c5e7d4cc39e7ee52096102/aa.png)
 <h1>3.Tech and Framework</h1>
 <li>.NET MVC
 <li>boostrap
