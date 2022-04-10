@@ -8,7 +8,7 @@ In this iteration development, two epics will be implemented into functions in w
 ![aa](https://user-images.githubusercontent.com/53655545/162607360-ec7be10c-7616-4c8a-94ea-06c78b15da73.png)
 
 # 2. Software architecture and design principle involved
-![image]( aa.png)
+![image]( https://github.com/102605711/T11Asssignment/blob/2ffc9f3e91fd89be92c5e7d4cc39e7ee52096102/aa.png)
 <h1>3.Tech and Framework</h1>
 <li>.NET MVC
 <li>boostrap
