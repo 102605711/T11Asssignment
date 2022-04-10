@@ -8,6 +8,7 @@ In this iteration development, two epics will be implemented into functions in w
 
 # 2. Software architecture and design principle involved
 <p>In iteration one, .net was used as a development platform within the MVC framework. Furthermore, within the EF framework, the front-end and back-end can be easily integrated, and quickly deployed on the Azure Cloud. </p>
+
 ![Screenshot](aa.png)
 
 <h1>3.Tech and Framework</h1>
