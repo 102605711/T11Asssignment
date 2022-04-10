@@ -8,7 +8,6 @@ In this iteration development, two epics will be implemented into functions in w
 
 # 2. Software architecture and design principle involved
 <p><b>2.1 Backend of the project</p></b>
-<p><b>2.2 Backend of the project functionality</p></b>
 <h1>3.Tech and Framework</h1>
 <li>.NET MVC
 <li>boostrap
