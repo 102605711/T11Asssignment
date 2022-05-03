@@ -7,7 +7,10 @@
 In this iteration development, two epics will be implemented into functions in which people can get information about endangered land animals and habitats knowledge, and are free to subscribe to the news and activities without any mandatory. In addition, the initial version project basically met the needs of users, but there were still some shortcomings, after improvement, we have the delivery version project with fully functional and more interactive UI design, and we are ready to delivery this project to our user.</p>
 
 # 2. Software architecture and design principle involved
-<p><b>2.1 Backend of the project</p></b>
+<p>In iteration one, .net was used as a development platform within the MVC framework. Furthermore, within the EF framework, the front-end and back-end can be easily integrated, and quickly deployed on the Azure Cloud. </p>
+
+![Screenshot](aa.png)
+
 <h1>3.Tech and Framework</h1>
 <li>.NET MVC
 <li>boostrap
