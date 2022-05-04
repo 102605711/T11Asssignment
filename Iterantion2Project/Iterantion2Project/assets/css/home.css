@@ -671,7 +671,7 @@ section {
             font-size: 48px;
             line-height: 1;
             color: #c06714;
-            transition: all 0.3s ease-in-out;
+            transition: all 1s ease-in-out;
         }
 
     .services .title {
@@ -695,7 +695,13 @@ section {
     .services .icon-box:hover .description {
         display: block;
         padding-top: 30px;
+    }
+
+    .services .icon-box:hover .description {
+        padding-top: 30px;
         color: #c06714;
+        width:80%;
+        height:80%;
     }
 
     .services .icon-box:hover img {
