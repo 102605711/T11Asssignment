@@ -26,8 +26,10 @@
 </li>
 </ul>
 </hr>
-<h1>Techs used <h1>
+<h1>Techs used </h1>
   <p>Back-End:MySQL, relevant database,data cleaning techs,aspx</p>
   <p>cloud-Deployment:Azure</p>
-  <p>Front-End:H5, CSS, Python, JS</p>
-  <p>IDE:Asp.net.mvc, apsx</p>
+  <p>Front-End:H5, CSS, Python, JS, boostrap</p>
+  <p>Framwork:Asp.net.mvc, apsx</p>
+  
+  
