@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\li353\Desktop\5120\Assessment2\iteration3\T12 Finall\T12\Iteration3\Iterantion2Project\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\li353\Desktop\5120\Assessment2\iteration3\T12 Finall\T12\Iteration3\Iterantion2Project\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\li353\Desktop\5120\Assessment2\iteration3\T12 Finall\T12\Iteration3\Iterantion2Project\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\li353\Desktop\5120\Assessment2\iteration3\T12 Finall\T12\Iteration3\Iterantion2Project\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>
